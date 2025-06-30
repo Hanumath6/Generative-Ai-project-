@@ -1,4 +1,4 @@
-# Generative-Ai-project-
+# Smart_City_Assistant_Ibm_Granite_Instruct _Model
 Sustainable Smart City Assistant Using IBM Granite LLM
 Category: Cloud Application Development
 
